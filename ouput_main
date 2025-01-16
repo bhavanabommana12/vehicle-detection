@@ -1,0 +1,10 @@
+Enter the number of roots (n): 4
+Enter the base for root 1: 10
+Enter the encoded value for root 1: 4
+Enter the base for root 2: 2
+Enter the encoded value for root 2: 111
+Enter the base for root 3: 10
+Enter the encoded value for root 3: 12
+Enter the base for root 4: 4
+Enter the encoded value for root 4: 213
+Constant term c: -17
